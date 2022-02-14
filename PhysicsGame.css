@@ -1,0 +1,9 @@
+#myCanvas {
+    border: 5px solid #000000;
+    background-color: #ffffff;
+	display: inline;
+}
+#container {
+	width: 100%;
+	text-align: center;
+}
